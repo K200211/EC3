@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.camila.ec3_bancescamila_movilesii.app-mergeDebugResources-47:/layout/activity_login.xml",
+        "source": "com.camila.ec3_bancescamila_movilesii.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.camila.ec3_bancescamila_movilesii.app-mergeDebugResources-47:/layout/fragment_detail.xml",
+        "source": "com.camila.ec3_bancescamila_movilesii.app-main-50:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.camila.ec3_bancescamila_movilesii.app-mergeDebugResources-47:/layout/item_movie.xml",
+        "source": "com.camila.ec3_bancescamila_movilesii.app-main-50:/layout/item_movie.xml"
+    },
+    {
+        "merged": "com.camila.ec3_bancescamila_movilesii.app-mergeDebugResources-47:/layout/fragment_favorite.xml",
+        "source": "com.camila.ec3_bancescamila_movilesii.app-main-50:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.camila.ec3_bancescamila_movilesii.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.camila.ec3_bancescamila_movilesii.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.camila.ec3_bancescamila_movilesii.app-mergeDebugResources-47:/layout/fragment_info.xml",
+        "source": "com.camila.ec3_bancescamila_movilesii.app-main-50:/layout/fragment_info.xml"
+    },
+    {
+        "merged": "com.camila.ec3_bancescamila_movilesii.app-mergeDebugResources-47:/layout/fragment_list.xml",
+        "source": "com.camila.ec3_bancescamila_movilesii.app-main-50:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.camila.ec3_bancescamila_movilesii.app-mergeDebugResources-47:/layout/fragment_movie_list.xml",
+        "source": "com.camila.ec3_bancescamila_movilesii.app-main-50:/layout/fragment_movie_list.xml"
+    }
+]
